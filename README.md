@@ -8,7 +8,7 @@
 
 An example to run the command is the following:
 
-    backup-volume.sh -v <volume_name> -p <prefix>
+    backup-volume.sh -p <prefix>
 
 ## Restoring your docker volume
 
